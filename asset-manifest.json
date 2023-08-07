@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-typofast/static/css/main.158578a0.css",
+    "main.js": "/react-typofast/static/js/main.c39e2f8f.js",
+    "static/media/hero.jpg": "/react-typofast/static/media/hero.5189e1cb475a82f579fa.jpg",
+    "index.html": "/react-typofast/index.html",
+    "main.158578a0.css.map": "/react-typofast/static/css/main.158578a0.css.map",
+    "main.c39e2f8f.js.map": "/react-typofast/static/js/main.c39e2f8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.158578a0.css",
+    "static/js/main.c39e2f8f.js"
+  ]
+}
